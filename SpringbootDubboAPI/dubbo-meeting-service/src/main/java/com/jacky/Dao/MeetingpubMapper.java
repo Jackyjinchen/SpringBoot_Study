@@ -2,8 +2,10 @@ package com.jacky.Dao;
 
 import com.jacky.Entity.Meetingpub;
 import org.apache.ibatis.annotations.Mapper;
+import org.springframework.stereotype.Repository;
 
 @Mapper
+@Repository
 public interface MeetingpubMapper {
     int deleteByPrimaryKey(Integer id);
 

@@ -2,8 +2,10 @@ package com.jacky.Dao;
 
 import com.jacky.Entity.Student;
 import org.apache.ibatis.annotations.Mapper;
+import org.springframework.stereotype.Repository;
 
 @Mapper
+@Repository
 public interface StudentMapper {
     int deleteByPrimaryKey(Integer id);
 

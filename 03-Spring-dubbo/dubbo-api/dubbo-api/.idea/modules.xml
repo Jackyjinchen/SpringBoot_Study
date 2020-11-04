@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/dubbo-dubbo-2.6.0/dubbo-consumer/dubbo-consumer.iml" filepath="$USER_HOME$/Downloads/dubbo-dubbo-2.6.0/dubbo-consumer/dubbo-consumer.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/dubbo-dubbo-2.6.0/dubbo-privider/dubbo-privider.iml" filepath="$USER_HOME$/Downloads/dubbo-dubbo-2.6.0/dubbo-privider/dubbo-privider.iml" />
+    </modules>
+  </component>
+</project>

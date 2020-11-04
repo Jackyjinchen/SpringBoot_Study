@@ -1,0 +1,5 @@
+com/jacky/Entity/Student.class
+com/jacky/App.class
+com/jacky/Entity/Meetingpub.class
+com/jacky/Service/MeetingpubService.class
+com/jacky/Service/StudentService.class

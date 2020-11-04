@@ -1,5 +1,6 @@
 package com.jacky.Entity;
 
+
 import java.io.Serializable;
 
 public class Meetingpub implements Serializable {

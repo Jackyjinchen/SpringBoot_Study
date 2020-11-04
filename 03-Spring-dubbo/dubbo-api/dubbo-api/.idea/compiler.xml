@@ -13,6 +13,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="consumer" target="1.7" />
+      <module name="dubbo-consumer" target="1.8" />
+      <module name="dubbo-privider" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
